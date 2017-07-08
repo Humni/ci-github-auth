@@ -1,7 +1,7 @@
 # CodeIgniter Github OAuth Authentication Library
 Allows CodeIgniter to let users login to GitHub and gain access to their account data and the rest of GitHubs API.
 
-##Getting Started
+## Getting Started
 1. You first need to register your application with GitHub to get your `client_id` and `client_secret`
 2. Drag and drop the files in the respective folders (e.g. config/github.php goes into the config file in the CI application)
 3. Set the config variables
